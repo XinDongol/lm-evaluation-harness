@@ -3,7 +3,7 @@ from . import (
     api_models,
     dummy,
     gguf,
-    hf_audiolm,
+    # hf_audiolm,
     hf_steered,
     hf_vlms,
     huggingface,
@@ -19,6 +19,7 @@ from . import (
     textsynth,
     vllm_causallms,
     vllm_vlms,
+    xinmodel,
 )
 
 
